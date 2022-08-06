@@ -9,6 +9,8 @@ node server/server.js
 
 ```
 
+![Screenshot](1st.png)
+
 
 
 @GoodLuck :+1: Try it - it's ready to merge! :shipit:
